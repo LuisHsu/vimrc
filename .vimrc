@@ -29,6 +29,7 @@ Plugin 'jiangmiao/auto-pairs'
 " color
 hi Pmenu ctermbg=white
 hi Pmenu ctermfg=black
+hi PmenuSel ctermfg=white ctermbg=blue
 hi Normal  ctermfg=252 ctermbg=none
 
 " Vundle End
