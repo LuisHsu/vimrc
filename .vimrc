@@ -35,3 +35,4 @@ hi Normal  ctermfg=252 ctermbg=none
 " Vundle End
 call vundle#end()            " required
 filetype plugin indent on    " required
+let g:snipMate = { 'snippet_version' : 1 }
